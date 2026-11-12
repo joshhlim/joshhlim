@@ -11,13 +11,14 @@ AI Engineer at Ng Teng Fong General Hospital in Singapore, and a 2026 Business A
 - **[llm-emotions](https://github.com/joshhlim/llm-emotions)**: do LLMs get angry? Probing and steering emotion representations in open-weight models. *(in progress)*
 - **[Digital name card template](https://github.com/joshhlim/Digital-namecard-template)**: build your own digital name card from one config file.
 
-### Tools I use
+### Good to know
 
-Python · TypeScript · FastAPI · Next.js · Astro · Supabase · Vercel · Render · scikit-learn · pandas · pytest
-
-### Currently learning
-
-Microsoft Azure AI Apps and Agents (AI-103) and AWS Solutions Architect Associate.
+- 🀄 Big Two and Mahjong nights with friends are a regular thing, which is how GamBROle started.
+- 🎸 I pick up the guitar whenever I get the chance, and I'll listen to music of all kinds.
+- 🧠 I'm curious about what goes on inside open-weight models: what you can tweak, and how they behave when you do.
+- 📐 I enjoy reading about 3D computer vision and how machines make sense of the 3D world.
+- 🤖 I'm always looking for ways to use AI better in everyday life, not just at work.
+- 💬 Ask me about applied AI, healthcare tech, or turning messy data into something people actually use.
 
 ### Find me
 
